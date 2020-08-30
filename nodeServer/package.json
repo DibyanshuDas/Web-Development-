@@ -1,0 +1,11 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is my first NodeServer",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dibyanshu Das",
+  "license": "ISC"
+}
